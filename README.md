@@ -4,6 +4,7 @@
 - ⛵️ I'm also into sailing, weather data, and Morse code.
 - 🧪 How to reach me BryantNatDav@gmail.com
 - I'm <a rel = 'me' href="https://fosstodon.org/@BryantNatDav">@ BryantNatDav @ fosstodon.org (Mastodon)</a>
+- LinkedIn: https://www.linkedin.com/in/nathandbryant/
 
 <!---
 nathandbryant/nathandbryant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
