@@ -3,6 +3,7 @@
 - 🔭 I’m currently learning DS, Python, PostgreSQL, Snowflake, Tableau, AI/ML.
 - ⛵️ I'm also into sailing, weather data, and Morse code.
 - 🧪 How to reach me BryantNatDav@gmail.com
+- Also: @BryantNatDav@fosstodon.org
 
 <!---
 nathandbryant/nathandbryant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
